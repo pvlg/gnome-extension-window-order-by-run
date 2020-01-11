@@ -1,0 +1,10 @@
+{
+ "uuid": "window-order-by-run@pavel.g89.gmail.com",
+ "name": "Window order by run",
+ "description": "Placement windows in the order in which they were running",
+ "shell-version": [
+  "3.30"
+ ],
+ "url": "https://github.com/pvlg/gnome-extension-window-order-by-run",
+ "version": 1
+}
